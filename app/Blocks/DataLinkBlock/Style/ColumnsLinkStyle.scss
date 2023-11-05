@@ -1,0 +1,30 @@
+.usp-bar-container {
+    overflow: hidden;
+    padding: 10px 0 10px 0;
+    font-size: 14px;
+  //  background-color: #fff;
+    fill: #fff;
+}
+
+.usp-bar-item {
+    position: relative;
+    min-height: 1px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.usp-bar-item-link{
+    font-family: Verdana,sans-serif;
+    font-weight: 800;
+    color: #306;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+
+.img-consistent{
+    max-width: 18px;
+    max-height: 18px;
+    display: inline-block;
+    margin: 0 5px;
+}
